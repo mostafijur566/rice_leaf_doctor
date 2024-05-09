@@ -1,16 +1,17 @@
-# rice_leaf_disease_detection_flutter
+# Rice Leaf Doctor
 
-A new Flutter project.
+Rice Leaf Doctor is a Flutter-based mobile application designed to assist farmers and agricultural professionals by diagnosing diseases in rice leaves. Utilizing advanced machine learning techniques, this app allows users to upload a photo of a rice leaf and receive an immediate prediction of the disease along with the confidence percentage of the diagnosis.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Photo Upload**: Users can choose a photo from their gallery or take a live photo.
+- **Disease Prediction**: The app predicts the type of disease affecting the rice leaf and provides a confidence percentage for the prediction.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Install the App**: Download and install the Rice Leaf Doctor app from the store or install it manually.
+2. **Open the App**: Launch the app on your device.
+3. **Select Photo**: From the home page, choose to either take a live photo or select one from your gallery.
+4. **Upload and Analyze**: Upload the photo for analysis. The app will display the predicted disease and confidence level.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Backend repository link: https://github.com/mostafijur566/Rice-Leaf-Disease-Classifier-API
